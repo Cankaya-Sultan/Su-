@@ -15,8 +15,7 @@
  <input type="button" onclick="changeImage()" value=" Changer l'image" />
 
 
- <script>
-var x=0 ;
+ var x=0 ;
      function changeImage() 
      {
         
@@ -34,10 +33,6 @@ var x=0 ;
          }
 
          }
- </script>
-
-
-
 
 <ul> 
 <li> Ingrédients</li>
